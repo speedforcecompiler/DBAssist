@@ -3,7 +3,7 @@
 	include 'dbh.php';
 	include 'get.php';
 
-	$param = array("7","lauda");
+	$param = array("7","laura");
 	$column = array("id","name");
 
 	$result = get($conn2,"newspapers",$column,$param,"or");
