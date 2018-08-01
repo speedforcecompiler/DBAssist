@@ -1,3 +1,8 @@
+/* 
+Here you can create connection objects to your database. 
+Which can be further used in the get.php file for running queries.
+*/
+
 <?php
 	
 	try{
